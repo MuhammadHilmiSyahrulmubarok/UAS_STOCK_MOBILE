@@ -4,7 +4,7 @@
             "outputFile": "com.example.ShopSendalHil.app-mergeReleaseResources-9:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hilmi syahrul\\Documents\\praktikum mobile\\TB MOBILE\\UAS_MOBILE\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\hilmi syahrul\\Documents\\praktikum mobile\\UAS_STOCK_MOBILE\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
