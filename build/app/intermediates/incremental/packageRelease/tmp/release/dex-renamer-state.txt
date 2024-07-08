@@ -1,0 +1,4 @@
+#Mon Jul 08 14:45:52 WIB 2024
+base.0=C\:\\Users\\hilmi syahrul\\Documents\\praktikum mobile\\TB MOBILE\\UAS_MOBILE\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
